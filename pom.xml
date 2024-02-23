@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.selenium</groupId>
-    <artifactId>selenium-examples</artifactId>
+    <artifactId>SeleniumExamples</artifactId>
     <version>1.0.0</version>
 
     <properties>
@@ -27,6 +27,7 @@
             <version>5.10.0</version>
             <scope>test</scope>
         </dependency>
+        
     </dependencies>
 
     <build>
